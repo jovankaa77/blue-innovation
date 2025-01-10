@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Landing Page</title>
+    <title>Landing Pag</title>
     
     <link rel="stylesheet" type="text/css" href="bs/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="font/css/all.min.css">
